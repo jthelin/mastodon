@@ -831,10 +831,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@clusterws/cws@^0.15.0":
-  version "0.15.0"
-  resolved "https://registry.yarnpkg.com/@clusterws/cws/-/cws-0.15.0.tgz#1d585927252d1cd92e676c952fa6d69df14a0d07"
-  integrity sha512-41QpCngw86n41hIdU5Nx2QJmmxZuA9FPtDkjONrYpk27L7HjL1kj6J5oWEjbr14yXLfigZit3VY+oACDCGbiHw==
+"@clusterws/cws@^0.15.1":
+  version "0.15.1"
+  resolved "https://registry.yarnpkg.com/@clusterws/cws/-/cws-0.15.1.tgz#c0d8b376ffd6d052233766c106914c95977467d0"
+  integrity sha512-guhUinA5Ktqwfp6XTA18gak5SXxM/UpZHYDN8ciyNT39clx7Px+bDC7rkiYsXQHDSMDlVE2+X6oUmWZMeqB4nw==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.3"
